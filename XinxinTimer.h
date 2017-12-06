@@ -3,7 +3,7 @@
 //  hong5
 //
 //  Created by 新新 on 2017/12/6.
-//  Copyright © 2017年 com.hong5.ios. All rights reserved.
+//  Copyright © 2017年. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
